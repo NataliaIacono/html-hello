@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #eaeaea;
+    font-family: sans-serif;
+}
+.titleimg {
+        background-color: white;
+        padding: 15px;
+}
+.titleimg h1 {
+    width: 400px;
+    margin: auto;
+    font-size: 22px;
+    
+}
+.conjunto
+{
+    width: 400px;
+    margin: auto;
+    background: white;
+    margin-top: 40px;
+}
+.header__conjunto {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.header_conjunto_title {
+    font-weight: bold;
+    font-size: 14px;
+}
+.header_conjunto_date {
+    color: lightgrey;
+    font-size: 12px;
+}
+.caption_conteiner {
+    padding: 5px;
+}
+.caption {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.caption a {
+    color: black;
+}
